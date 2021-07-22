@@ -140,10 +140,10 @@ dt = 1
 
 print('-'*100 + '\n' + 'Simulation of the Time-Dependent Schrodinger equation \n' +
 'for an unbounded particle in an infinite square well \n \n' +
-'Student 1: Ansh Anurag  ' +
-'Roll No.: 2K20/B2/71 \n' +
-'Student 2: Aarushi Saxena  ' +
-'Roll No.: 2K20/B2/05 \n' +
+'Student 1: Aditya Mann  ' +
+'Roll No.: 2K20/B11/71 \n' +
+'Student 2: Shubham Ahlawat ' +
+'Roll No.: 2K20/B11/25 \n' +
 '-'*100)
 # print('Note: change frames in animate for length of recording')
 
